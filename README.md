@@ -1,7 +1,7 @@
 :cherry_blossom: [花見](https://williamfaunce.dev/) :cherry_blossom:
 
-- :blue_book: documentation enthusiast
+- 🚀 skilled in .NET, React, and SQL
 
-- :seedling: currently learning Rust and Japanese
+- 🌱 currently learning Rust and Japanese
 
-- :tada: skilled in full-stack web development, containerization, relational databases
+- ❤️ lover of books, art, and adventuring
