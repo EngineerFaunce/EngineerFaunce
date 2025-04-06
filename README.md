@@ -2,6 +2,6 @@
 
 - 🚀 skilled in .NET, React, and SQL
 
-- 🌱 currently learning Rust and Japanese
+- 🌱 currently learning Rust and WebRTC
 
 - ❤️ lover of books, art, and adventuring
